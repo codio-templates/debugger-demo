@@ -1,7 +1,5 @@
 
-// challenge1/Challenge.java
-
-public class Test {
+public class Addition {
 
     public static void main(String[] args) {
 
