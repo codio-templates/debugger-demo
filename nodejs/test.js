@@ -1,5 +1,11 @@
 
-a = process.argv[1]
-b = process.argv[2]
-process.stdout.write(a + b)
+function add() {
+  
+  a = parseInt( process.argv[2], 10 )
+  b = parseInt( process.argv[3], 10 )
+  c = a + b
+  console.log("Total : " + c)
+  
+}
 
+add()
