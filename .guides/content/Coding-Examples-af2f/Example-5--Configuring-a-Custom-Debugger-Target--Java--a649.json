@@ -1,0 +1,22 @@
+{
+	"id": "a6498a1c-1522-9e52-9a82-77436002b6c9",
+	"title": "Example 5: Configuring a Custom Debugger Target (Java)",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "java/Addition.java",
+			"panel": 0,
+			"action": "open"
+		}
+	],
+	"layout": "2-panels",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

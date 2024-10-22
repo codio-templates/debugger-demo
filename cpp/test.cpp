@@ -1,16 +1,9 @@
-#include <iostream>
-#include <stdlib.h>
+#include <iostream> 
 
-int main(int argc, char* argv[])
-{
-
-    std::cout << argv[0] << std::endl;
-    
-    int a = atoi(argv[0]);
-    int b = atoi(argv[1]);
-  
-    int c = a + b;
-  
-    std::cout << c << std::endl;
+int main() {
+    int a = 5;
+    int b = 10;
+    int result = a + b;
+    std::cout << "Result: " << result << std::endl;
     return 0;
 }

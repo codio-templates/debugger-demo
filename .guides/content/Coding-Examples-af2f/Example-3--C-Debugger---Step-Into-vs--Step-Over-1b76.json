@@ -1,0 +1,22 @@
+{
+	"id": "1b764727-0a00-a27d-41d9-51c09e63b422",
+	"title": "Example 3: C Debugger - Step Into vs. Step Over",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "c/test.c",
+			"panel": 0,
+			"action": "open"
+		}
+	],
+	"path": [],
+	"contentType": "markdown",
+	"type": "page",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": "",
+	"layout": "2-panels"
+}
