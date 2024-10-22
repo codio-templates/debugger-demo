@@ -1,18 +1,14 @@
-import sys
-import subprocess
+def multiply(a, b):
+    result = a * b
+    return result
 
-def run_test(a, b):
-  
-  num1 = a
-  num2 = b
-  print(a + b)
-  sys.exit(0)
+def print_result(value):
+    print(f"The result is: {value}")
 
-if len(sys.argv) < 3:
-  print("Requires 2 arguments")
-  exit(1)
-  
-run_test(sys.argv[1], sys.argv[2])
+def main():
+    x = 10
+    y = 5
+    product = multiply(x, y)  # Set a breakpoint
+    print_result(product)
 
-
-
+main()

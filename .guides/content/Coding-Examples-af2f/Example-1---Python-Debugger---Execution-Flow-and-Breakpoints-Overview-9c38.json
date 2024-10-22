@@ -1,0 +1,22 @@
+{
+	"id": "9c3835af-f8ba-626e-149a-3baddd7cd78e",
+	"title": "Example 1 : Python Debugger - Execution Flow and Breakpoints Overview",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "python/test.py",
+			"panel": 0,
+			"action": "open"
+		}
+	],
+	"layout": "2-panels",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

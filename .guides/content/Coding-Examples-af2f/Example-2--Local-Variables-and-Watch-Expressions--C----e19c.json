@@ -1,0 +1,22 @@
+{
+	"id": "e19c683b-cdf5-60ad-01d8-407ea03de88f",
+	"title": "Example 2: Local Variables and Watch Expressions (C++)",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "cpp/test.cpp",
+			"panel": 0,
+			"action": "open"
+		}
+	],
+	"layout": "2-panels",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

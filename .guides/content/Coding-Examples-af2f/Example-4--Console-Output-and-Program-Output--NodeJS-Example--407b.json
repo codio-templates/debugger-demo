@@ -1,0 +1,22 @@
+{
+	"id": "407b78fb-c97d-5eda-a504-ac7d7a4f3bff",
+	"title": "Example 4: Console Output and Program Output (NodeJS Example)",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "nodejs/test.js",
+			"panel": 0,
+			"action": "open"
+		}
+	],
+	"layout": "2-panels",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

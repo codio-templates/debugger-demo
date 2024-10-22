@@ -1,11 +1,7 @@
-
-function add() {
-  
-  a = parseInt( process.argv[2], 10 )
-  b = parseInt( process.argv[3], 10 )
-  c = a + b
-  console.log("Total : " + c)
-  
+function multiply(a, b) {
+    console.log("Multiplying", a, "and", b);
+    return a * b;
 }
 
-add()
+const result = multiply(5, 10);
+console.log("Result:", result);

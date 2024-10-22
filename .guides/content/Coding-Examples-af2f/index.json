@@ -1,0 +1,12 @@
+{
+	"id": "af2f6655-2395-2596-df1e-1fcca49e934e",
+	"type": "chapter",
+	"title": "Coding Examples",
+	"order": [
+		"Example-1---Python-Debugger---Execution-Flow-and-Breakpoints-Overview-9c38",
+		"Example-2--Local-Variables-and-Watch-Expressions--C----e19c",
+		"Example-3--C-Debugger---Step-Into-vs--Step-Over-1b76",
+		"Example-4--Console-Output-and-Program-Output--NodeJS-Example--407b",
+		"Example-5--Configuring-a-Custom-Debugger-Target--Java--a649"
+	]
+}
